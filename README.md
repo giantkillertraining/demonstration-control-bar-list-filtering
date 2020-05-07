@@ -1,4 +1,4 @@
-\# List Filtering Using Control Bar Controls
+## List Filtering Using Control Bar Controls
 
 Demonstration of filtering a list control using items in a control bar.
 
