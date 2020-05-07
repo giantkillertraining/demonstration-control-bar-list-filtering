@@ -26,7 +26,7 @@ The demonstration relies on the use of the built in AADemo-Northwind connection 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/giantkillertraining/good-contributing) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
